@@ -1,2 +1,1 @@
-# MERN-golf
 # MERN-fore
